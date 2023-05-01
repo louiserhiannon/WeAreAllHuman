@@ -1,0 +1,18 @@
+{
+    "gazeDataOutput": [
+        {
+            "objectID": 12,
+            "targetType": "Blue",
+            "gazeIndex": 1,
+            "gazeTime": 13.620121955871582,
+            "gazeCaptureDistance": 13.925747871398926
+        },
+        {
+            "objectID": 18,
+            "targetType": "Blue",
+            "gazeIndex": 1,
+            "gazeTime": 20.16027069091797,
+            "gazeCaptureDistance": 20.292373657226564
+        }
+    ]
+}

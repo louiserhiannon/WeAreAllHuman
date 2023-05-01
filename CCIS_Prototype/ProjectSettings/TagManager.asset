@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - TargetObject01
+  - TargetObject02
+  - TargetObject03
+  - TargetObject04
+  - TargetObject05
+  - TargetObject06
+  - TargetObject07
+  - TargetObject08
+  - TargetObject09
+  - TargetObject10
+  - TargetObject11
+  - TargetObject12
+  - TargetObject13
+  - TargetObject14
+  - TargetObject15
+  - TargetObject16
+  - TargetObject17
+  - TargetObject18
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
